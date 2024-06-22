@@ -4,12 +4,12 @@ import Button from './components/button';
 function App () {
     return (
         <div> 
-            <h2>App</h2>
-            <Card />
+            
+            <Card title="Macbook Pro" />
 
             <hr />
 
-            <Button />
+            <Button value = 'add Card' />
         </div>
     )
 }
