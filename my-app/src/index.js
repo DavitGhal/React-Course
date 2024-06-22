@@ -9,6 +9,7 @@ root.render(
     <App />
 )
 
+console.log("Hello World");
 
 
 
